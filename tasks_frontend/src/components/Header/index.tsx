@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <Navbar bg="success" variant="dark" expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">CETIC</Navbar.Brand>
+        <Navbar.Brand href="#">AGENDA 2021</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
